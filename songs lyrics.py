@@ -29,7 +29,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
 
-file = pd.read_csv("/Users/aditisreenivas/Downloads/sovietttlyrics.csv", header = None)
+file = pd.read_csv("/Users/aditisreenivas/Downloads/FILEWITHALLSONGLYRICS.csv", header = None)
 processed_list = ""
 list_processed_list = []
 file_number = 0
